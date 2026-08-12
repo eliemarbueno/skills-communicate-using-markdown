@@ -8,7 +8,6 @@
 - Item 2
 - Item 3
 
-
 # Ordered list
 1. Step 1
 1. Step 2
